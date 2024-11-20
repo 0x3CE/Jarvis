@@ -1,6 +1,8 @@
 # Environnements virtuels
 venv/
 .env/
+ai/
+.ai/
 
 # Fichiers spécifiques à Python
 *.pyc
