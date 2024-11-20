@@ -1,0 +1,21 @@
+# Environnements virtuels
+venv/
+.env/
+
+# Fichiers spécifiques à Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Configurations d'outils
+*.env
+*.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Dépendances
+*.egg-info/
+dist/
+build/
